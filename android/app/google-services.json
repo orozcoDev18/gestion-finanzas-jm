@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032283870184",
+    "project_id": "gestion-de-finanzas-jm",
+    "storage_bucket": "gestion-de-finanzas-jm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032283870184:android:a3443717f9e3db9a690a5d",
+        "android_client_info": {
+          "package_name": "com.jm.gestion_finanzas_jm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATlplGvxn91643-u1-CXmHyjb25Iwi15A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
